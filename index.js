@@ -1,4 +1,4 @@
-const { TicTacToe } = require('./TicTacToe');
+const { TicTacToe } = require('./tic-tac-toe');
 
 /**
  * Clear the console contents and prints on the console the
